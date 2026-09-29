@@ -60,10 +60,3 @@ _Dernière mise à jour : 2026-09-29_
 | Projet — Analyseur d'une action | 0 / 3 | — |
 | Projet — Régression par descente de gradient | 0 / 3 | — |
 
-## Organisation
-
-- `cours/` — les leçons, dans l'ordre du parcours (des bases jusqu'au machine learning et à la finance quantitative) ;
-- `projets/` — les projets construits de bout en bout ;
-- `exercices/` — des défis moins guidés, classés par thème.
-
-Chaque fichier commence par un en-tête qui dit ce qu'il résout ; il s'exécute avec `python fichier.py` (certains utilisent NumPy, pandas, matplotlib ou scikit-learn).
