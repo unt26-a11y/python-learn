@@ -1,7 +1,7 @@
 # ============================================================
 # Exercice : Celsius → Fahrenheit
 # Catégorie : 🔥 Échauffement
-# Fait dans PyLearn — publié le 2026-09-29
+# Fait dans PyLearn — publié le 2026-09-30
 #
 # Énoncé :
 #   La formule : F = C × 9/5 + 32.
