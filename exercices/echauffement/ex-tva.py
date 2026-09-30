@@ -1,7 +1,7 @@
 # ============================================================
 # Exercice : Le panier TTC
 # Catégorie : 🔥 Échauffement
-# Fait dans PyLearn — publié le 2026-09-29
+# Fait dans PyLearn — publié le 2026-09-30
 #
 # Énoncé :
 #   Un article coûte ht = 150 € hors taxes, avec une TVA de 20 % (tva =
@@ -12,6 +12,5 @@
 
 ht = 150
 tva = 0.20
-
-ttc =  ht * (1  + tva  )
+ttc = ht * (1 + tva)
 print(ttc)
