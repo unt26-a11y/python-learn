@@ -1,7 +1,7 @@
 # ============================================================
 # Le total d'un panier
 # Module : Les fondamentaux · La moyenne de deux nombres
-# Validé le 2026-09-30 dans PyLearn
+# Fait dans PyLearn — publié le 2026-09-30
 #
 # Énoncé :
 #   Écris total_panier(prix_unitaire, quantite, frais) : le coût de quantite
