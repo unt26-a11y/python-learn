@@ -1,7 +1,10 @@
 # ============================================================
 # La moyenne de deux nombres
 # Module : Les fondamentaux
-# Fait dans PyLearn — publié le 2026-09-29
+# Fait dans PyLearn — publié le 2026-09-30
+#
+# Énoncé :
+#   Écris moyenne_de_deux(a, b) qui rend la moyenne des deux nombres.
 #
 # J'ai fait cet exercice 7 fois, de mémoire, sur des données différentes
 # à chaque passage. Il ne reste que ma dernière version : les 6 essais
