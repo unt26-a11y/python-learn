@@ -6,17 +6,17 @@ Mon apprentissage de Python, fichier par fichier. Chaque script de ce dépôt es
 
 | | Validé | |
 |---|---:|---|
-| 📚 Leçons | 14 / 444 | `░░░░░░░░░░` 3 % |
+| 📚 Leçons | 15 / 444 | `░░░░░░░░░░` 3 % |
 | 🏗️ Projets construits | 0 / 12 | `░░░░░░░░░░` 0 % |
 | 🎯 Exercices | 2 / 32 | `█░░░░░░░░░` 6 % |
 
-_Dernière mise à jour : 2026-09-30_
+_Dernière mise à jour : 2026-10-02_
 
 ## Par module
 
 | Module | Validé | Dossier |
 |---|---:|---|
-| Les fondamentaux | 14 / 40 | [`cours/01-les-fondamentaux/`](cours/01-les-fondamentaux) |
+| Les fondamentaux | 15 / 40 | [`cours/01-les-fondamentaux/`](cours/01-les-fondamentaux) |
 | Logique & données | 0 / 28 | — |
 | Réutiliser son code | 0 / 11 | — |
 | Python intermédiaire | 0 / 19 | — |
@@ -59,4 +59,3 @@ _Dernière mise à jour : 2026-09-30_
 | Projet — Classe Portefeuille (POO) | 0 / 3 | — |
 | Projet — Analyseur d'une action | 0 / 3 | — |
 | Projet — Régression par descente de gradient | 0 / 3 | — |
-
