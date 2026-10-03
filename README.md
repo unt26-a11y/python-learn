@@ -10,7 +10,7 @@ Mon apprentissage de Python, fichier par fichier. Chaque script de ce dépôt es
 | 🏗️ Projets construits | 0 / 12 | `░░░░░░░░░░` 0 % |
 | 🎯 Exercices | 2 / 32 | `█░░░░░░░░░` 6 % |
 
-_Dernière mise à jour : 2026-10-02_
+_Dernière mise à jour : 2026-10-03_
 
 ## Par module
 
