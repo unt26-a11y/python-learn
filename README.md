@@ -6,17 +6,17 @@ Mon apprentissage de Python, fichier par fichier. Chaque script de ce dépôt es
 
 | | Validé | |
 |---|---:|---|
-| 📚 Leçons | 16 / 444 | `░░░░░░░░░░` 4 % |
+| 📚 Leçons | 17 / 444 | `░░░░░░░░░░` 4 % |
 | 🏗️ Projets construits | 0 / 12 | `░░░░░░░░░░` 0 % |
 | 🎯 Exercices | 2 / 32 | `█░░░░░░░░░` 6 % |
 
-_Dernière mise à jour : 2026-10-02_
+_Dernière mise à jour : 2026-10-04_
 
 ## Par module
 
 | Module | Validé | Dossier |
 |---|---:|---|
-| Les fondamentaux | 16 / 40 | [`cours/01-les-fondamentaux/`](cours/01-les-fondamentaux) |
+| Les fondamentaux | 17 / 40 | [`cours/01-les-fondamentaux/`](cours/01-les-fondamentaux) |
 | Logique & données | 0 / 28 | — |
 | Réutiliser son code | 0 / 11 | — |
 | Python intermédiaire | 0 / 19 | — |
