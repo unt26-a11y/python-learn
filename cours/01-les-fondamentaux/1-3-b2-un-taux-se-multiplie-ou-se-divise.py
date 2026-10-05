@@ -1,7 +1,7 @@
 # ============================================================
 # Un taux se multiplie ou se divise ?
 # Module : Les fondamentaux · La moyenne de deux nombres
-# Validé le 2026-10-02 dans PyLearn
+# Validé dans PyLearn — mis à jour le 2026-10-05
 #
 # Énoncé :
 #   Le taux de change donne combien vaut un euro en dollars : à 1.08, un
@@ -10,6 +10,8 @@
 #   dollars.
 #
 # Refait 7 fois de mémoire, depuis un éditeur vide, sur des données différentes à chaque passage.
+# Puis 1 passage bonus, facultatif, pour m'entraîner encore — chacun sur
+# des données jamais vues.
 # ============================================================
 
 # ------------------------------------------------------------
@@ -80,3 +82,13 @@ print(en_dollars(38, 1.94))
 def en_dollars(euros , taux) :
     return euros * taux 
 print(en_dollars(101 , 0.65))
+
+
+# ------------------------------------------------------------
+# Bonus n°1 (facultatif) — 2026-10-05
+# Vérifié sur : (49, 1.33) → 65.17 · (0, 1.35) → 0 · (81, 1) → 81
+# ------------------------------------------------------------
+
+def en_dollars(euros, taux) :
+    return euros * taux
+print(en_dollars(49, 1.33))
