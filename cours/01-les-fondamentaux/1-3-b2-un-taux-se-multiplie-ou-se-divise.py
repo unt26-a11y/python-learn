@@ -10,8 +10,8 @@
 #   dollars.
 #
 # Refait 7 fois de mémoire, depuis un éditeur vide, sur des données différentes à chaque passage.
-# Puis 1 passage bonus, facultatif, pour m'entraîner encore — chacun sur
-# des données jamais vues.
+# Puis 2 passages bonus, facultatifs, pour m'entraîner encore — chacun
+# sur des données jamais vues.
 # ============================================================
 
 # ------------------------------------------------------------
@@ -92,3 +92,13 @@ print(en_dollars(101 , 0.65))
 def en_dollars(euros, taux) :
     return euros * taux
 print(en_dollars(49, 1.33))
+
+
+# ------------------------------------------------------------
+# Bonus n°2 (facultatif) — 2026-10-05
+# Vérifié sur : (55, 0.98) → 53.9 · (0, 1.24) → 0 · (121, 1.8) → 217.8
+# ------------------------------------------------------------
+
+def en_dollars(euros, taux):
+    return euros * taux 
+print(en_dollars(55, 0.98))
