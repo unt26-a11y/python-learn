@@ -1,7 +1,7 @@
 # ============================================================
 # Convertir une devise
 # Module : Les fondamentaux · Les nombres et les calculs
-# Validé dans PyLearn — mis à jour le 2026-10-12
+# Validé dans PyLearn — mis à jour le 2026-10-14
 #
 # Énoncé :
 #   Le taux de change donne combien vaut un euro en dollars : à 1.08, un
@@ -10,7 +10,7 @@
 #   dollars.
 #
 # Refait 7 fois de mémoire, depuis un éditeur vide, sur des données différentes à chaque passage.
-# Puis 6 passages bonus, facultatifs, pour m'entraîner encore — chacun
+# Puis 7 passages bonus, facultatifs, pour m'entraîner encore — chacun
 # sur des données jamais vues.
 # ============================================================
 
@@ -142,3 +142,13 @@ print(en_dollars(148, 1.5))
 def en_dollars(euros , taux ):
     return euros * taux
 print(en_dollars(0, 1.29))
+
+
+# ------------------------------------------------------------
+# Bonus n°7 (facultatif) — 2026-10-14
+# Vérifié sur : (57, 0.93) → 53.010000000000005 · (103, 1) → 103 · (0, 1.32) → 0
+# ------------------------------------------------------------
+
+def en_dollars(euros, taux):
+    return euros * taux
+print(en_dollars(57, 0.93))
